@@ -8,7 +8,7 @@
 
 ⏱️ 5 minutes
 
-- Download [accShopifyWebChat.json](../accShopifyWebChat.json) file
+- Download [accShopifyWebChat.json](../accShopifyWebChat.json) file - if you're not cloning the repo then right-click the file link and select **Save link as...**
 - Within **Zoom Contact Center Management**, select **Flows** in the left menu
 - First we need to create the web chat flow. To do this, click **Import**, and then within the dialog:
   - Enter the name: `accShopifyWebChat`
