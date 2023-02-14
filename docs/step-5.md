@@ -10,14 +10,19 @@ To test the Shopify Accelerator you’ll need some customer/order details from y
 
 ## 5.1 Testing the Voice Channel
 
-_Coming soon_
+- Dial the phone number you attached as an entry point to the **accShopifyVoice** flow
+- When prompted, either select to search by phone number or order number
+- Use your key[ad to enter the number type you selected
+- If everything has been set up correctly, the flow will read out details of the customer/order found and the custom variables you created in Step 2 will have been populated with Shopify data.
+  If there are errors then details will spoken to you with further information in the debug log.
 
 ## 5.2 Testing the Web Chat Channel
 
 - Open up your website and navigate to page where the script tag has been added from the previous step
 - The Zoom web chat icon will appear
 - Click the icon to start the web chat and enter your details
-  Once the chat starts then the accShopifyWebChat flow will run and you can test the Shopify integration. First you’ll be asked how you’d like to search. Simply follow the steps and provide the information requested. If everything is working properly, the information gathered from your Shopify account will be displayed to you in the chat window. If there are any errors, then these will be displayed along with the error codes listed below in the Troubleshooting section.
+  Once the chat starts then the accShopifyWebChat flow will run and you can test the Shopify integration. First you’ll be asked how you’d like to search. Simply follow the steps and provide the information requested. If everything is working properly, the information gathered from your Shopify account will be displayed to you in the chat window.
+  If there are any errors, then these will be displayed along with the error codes listed below in the Troubleshooting section.
 
 ## Troubleshooting
 
