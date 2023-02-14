@@ -15,7 +15,7 @@
 
   - Click the **Publish** button located in the top-right of the screen - this can take up to 30 seconds to publish.
 
-  ## 3.2
+  ## 3.2 Attach a Phone Number to the Flow
 
 ⏱️ 2 minutes
 
