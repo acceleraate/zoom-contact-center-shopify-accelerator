@@ -77,14 +77,14 @@ With over 20 years of native cloud and serverless experience, we take ownership 
 
 [Zoom Contact Center &amp; Shopify Accelerator](README.md)
 
-[Step 1: Shopify App Installation](docs/step-1.md)
+[Step 1 - Shopify App Installation](docs/step-1.md)
 
-[Step 2: Zoom Contact Center Configuration](docs/step-2.md)
+[Step 2 - Zoom Contact Center Configuration](docs/step-2.md)
 
-[Step 3: Voice Channel Configuration](docs/step-3.md)
+[Step 3 - Voice Channel Configuration](docs/step-3.md)
 
-[Step 4: Web Chat Channel Configuration](docs/step-4.md)
+[Step 4 - Web Chat Channel Configuration](docs/step-4.md)
 
-[Step 5: Testing](docs/step-5.md)
+[Step 5 - Testing the Shopify Accelerator](docs/step-5.md)
 
-[Step 6: Customising the Flows](docs/step-6.md)
+[Step 6 - Customising the Flows](docs/step-6.md)
