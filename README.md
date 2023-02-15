@@ -86,3 +86,5 @@ With over 20 years of native cloud and serverless experience, we take ownership 
 [Step 4: Web Chat Channel Configuration](docs/step-4.md)
 
 [Step 5: Testing](docs/step-5.md)
+
+[Step 6: Customising the Flows](docs/step-6.md)

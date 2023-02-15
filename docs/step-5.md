@@ -24,6 +24,12 @@ To test the Shopify Accelerator you’ll need some customer/order details from y
   Once the chat starts then the accShopifyWebChat flow will run and you can test the Shopify integration. First you’ll be asked how you’d like to search. Simply follow the steps and provide the information requested. If everything is working properly, the information gathered from your Shopify account will be displayed to you in the chat window.
   If there are any errors, then these will be displayed along with the error codes listed below in the Troubleshooting section.
 
+### Example Web Chat Interaction
+
+The screenshots below show an example interaction. The flow asks how you'd like to search, collects the data, calls the Shopify APIs to retrive customer and order data, then finally displays the data. This interaction is designed to confirm to you that the webchat is working as designed. Please refer to [Step 6 - Customising the Flows](step-6.md) to understand what needs to be done to make these flows your own and suitable for your customers.
+
+<img src="img/step-5/chat-1.png" width=300 /> <img src="img/step-5/chat-2.png" width=300 /> <img src="img/step-5/chat-3.png" width=300 /> <img src="img/step-5/chat-4.png" width=300 />
+
 ## Troubleshooting
 
 If errors are encountered during the processing of the flow, then use the code returned in the error message and the list below to check for troubleshooting steps.
@@ -98,7 +104,7 @@ Error: `9000` - Unexpected error
 
 ## Next Step
 
-Do you need more help customising your flows? Contact us at [support@acceleraate.com](mailto:support@acceleraate.com)
+[Step 6: Customising the Flows](step-6.md)
 
 ---
 
@@ -115,3 +121,5 @@ Do you need more help customising your flows? Contact us at [support@acceleraate
 [Step 4: Web Chat Channel Configuration](step-4.md)
 
 [Step 5: Testing](step-5.md)
+
+[Step 6: Customising the Flows](step-6.md)

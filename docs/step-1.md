@@ -85,3 +85,5 @@ Before moving into the Zoom Admin console, please make sure that you have the fo
 [Step 4: Web Chat Channel Configuration](step-4.md)
 
 [Step 5: Testing](step-5.md)
+
+[Step 6: Customising the Flows](step-6.md)

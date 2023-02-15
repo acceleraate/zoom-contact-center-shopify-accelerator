@@ -49,3 +49,5 @@ Next, you’ll need to attach an entry point to the **accShopifyVoice** flow you
 [Step 4: Web Chat Channel Configuration](step-4.md)
 
 [Step 5: Testing](step-5.md)
+
+[Step 6: Customising the Flows](step-6.md)

@@ -54,7 +54,7 @@ To test your flow from a web browser, you need install the script you got from t
 - Locate the script that you saved from the previous step. It will look something like the example below - make sure that you use your own script and **DO NOT copy this script** as it won’t work on your website.
 
 ```JavaScript
-// Don't copy this script to your site
+// Don't copy this script to your site - it's just an example for reference
 <script
   data-chat-entry-id="XXXyyyZZZaaaBBBccc"
   src="https://xxxxxxxx.zoom.us/zzz/web-sdk/chat-client.js">
@@ -100,3 +100,5 @@ Finally, publish the changes you made to your website.
 [Step 4: Web Chat Channel Configuration](step-4.md)
 
 [Step 5: Testing](step-5.md)
+
+[Step 6: Customising the Flows](step-6.md)
