@@ -28,7 +28,9 @@ To test the Shopify Accelerator you’ll need some customer/order details from y
 
 The screenshots below show an example interaction. The flow asks how you'd like to search, collects the data, calls the Shopify APIs to retrive customer and order data, then finally displays the data. This interaction is designed to confirm to you that the webchat is working as designed. Please refer to [Step 6 - Customising the Flows](step-6.md) to understand what needs to be done to make these flows your own and suitable for your customers.
 
-<img src="img/step-5/chat-1.png" width=300 style="border: 1px solid #c6c8d0" />&nbsp;&nbsp;<img src="img/step-5/chat-2.png" width=300 style="border: 1px solid #c6c8d0" />&nbsp;&nbsp;<img src="img/step-5/chat-3.png" width=300 style="border: 1px solid #c6c8d0" />&nbsp;&nbsp;<img src="img/step-5/chat-4.png" width=300 style="border: 1px solid #c6c8d0" />
+<img src="img/step-5/chat-1.png" width=300  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/step-5/chat-2.png" width=300  />
+
+<img src="img/step-5/chat-3.png" width=300  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/step-5/chat-4.png" width=300  />
 
 ## Troubleshooting
 
