@@ -8,9 +8,9 @@ Integration provided by [Acceleraate](https://acceleraate.com)
 
 ## Overview
 
-This accelerator provides Zoom Contact Center clients with a quick and easy way to securely access Shopify customer and order data, enabling personalised customer experience, self-serve/contact deflection, and advisor efficiency for all contact channels.
+This accelerator provides Zoom Contact Center users with a quick and easy way to securely access Shopify customer and order data, enabling personalised customer experience, self-serve/contact deflection, and advisor efficiency for all contact channels.
 
-Once installed, the accelerator provides clients with the ability to implement multiple CX use cases, such as pre-emptive intent detection; personalised messaging; self-serve of common contact queries such as “_where is my order?_”, “_my order is missing an item_”, “_where is my refund?_”; automated Identity and Verification (ID&V), and priority routing for high value customers. This provides customers with an effortless experience, and advisors with the context of the customer as soon as they connect to the conversation, contributing towards faster handling times and improved first contact resolution.
+Once installed, the accelerator provides users with the ability to implement multiple CX use cases, such as pre-emptive intent detection; personalised messaging; self-serve of common contact queries such as “_where is my order?_”, “_my order is missing an item_”, “_where is my refund?_”; automated Identity and Verification (ID&V), and priority routing for high value customers. This provides customers with an effortless experience, and advisors with the context of the customer as soon as they connect to the conversation, contributing towards faster handling times and improved first contact resolution.
 
 ## Provider
 
@@ -33,7 +33,7 @@ ID, Name, Email, Phone, Order Count, Total Spent, Last Order ID, Notes, State & 
 _Order Data_
 
 ```
-ID, Number, Line Items, Total Price, Status, Payment Status, Shipping Address, Phone, Notes, Cancel Reason, Cancel Date
+ID, Number, Line Items, Total Price, Fulfilment Status, Financial Status, Shipping Address, Phone, Notes, Cancel Reason, Cancel Date
 ```
 
 ## Installation pre-requisites

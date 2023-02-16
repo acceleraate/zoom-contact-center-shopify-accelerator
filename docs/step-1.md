@@ -52,10 +52,10 @@ Now that the application has been created, we need to configure it, to tell it w
 
     - Click **Reveal token once** (please note that the token can only be displayed once, so it’s vital that you store this somewhere securely such as your chosen password safe)
     - When the access token is displayed, click the **clipboard icon** on the right of the token to copy the token
-    - IMPORTANT - Store the token securely - please note that the token can only be displayed once, so it’s vital that you store this somewhere securely such as your chosen password safe
+    - **IMPORTANT** - Store the token securely - please note that the token can only be displayed once, so it’s vital that you store this somewhere securely such as your chosen password safe
     - Your API token will be needed when configuring `apiKey` custom variable within Zoom Contact Center Administration, as detailed later within this guide.
 
-Your custom Shopify app is now fully configured and we are almost ready to move across to the Zoom Admin Console. Before we do that, make sure that you have taken a copy of the important information listed below. _We strongly recommend that these values are stored in your chosen password safe._
+Your custom Shopify app is now fully configured and we are almost ready to move across to the Zoom Admin Console. Before we do that, make sure that you have taken a copy of the important information listed below. **_We strongly recommend that these values are stored in your chosen password safe_**.
 
 ## IMPORTANT - Shopify information needed for the next step
 

@@ -32,7 +32,7 @@ The screenshots below show an example interaction. The flow asks how you'd like 
 
 <img src="img/step-5/chat-3.png" width=300  />&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/step-5/chat-4.png" width=300  />
 
-## Troubleshooting
+## Error Codes
 
 If errors are encountered during the processing of the flow, then use the code returned in the error message and the list below to check for troubleshooting steps.
 
@@ -76,7 +76,14 @@ Error: `1005` - Supplied phone number not valid
 
 Error: `2001` - Authentication failed
 
+- Double-check that the `apiKey` and `storeName` Zoom Global Variables are set to the correct values for the same Shopify store
+- Verify that the Shopify app you created in an earlier step, hasn't been uninstalled
+
 Error: `2002` - Timeout
+
+- Check the [Shopify Status Page](https://www.shopifystatus.com/) for details of any current technical issues
+- Check the [Zoom Status Page](https://status.zoom.us/) for details of any current technical issues
+- Try calling the [Zoom API](https://shopify.dev/docs/api/admin-rest) using a tool like [Postman](https://www.postman.com/)
 
 Error: `3001` - Customer not found using email address
 
@@ -103,6 +110,10 @@ Error: `9000` - Unexpected error
 
 - A script block resulted in an unexpected error
 - The error message will include a description of the error, the name of the flow and the name of the block where the error occured
+
+## Debugging the Flows
+
+If the error codes provided don't help you resolve your issue, you'll need to debug the flow from within the Zoom Contact Center management portal. Ths will provide you with a log of every step within the flow to help you resolve the issue. Refer to the [Zoom Support documentation on how to debug a flow](https://support.zoom.us/hc/en-us/articles/5646354933261-Debugging-a-flow#:~:text=In%20the%20navigation%20menu%2C%20click,ellipses%20icon%20%2C%20then%20click%20Debug.).
 
 ## Next Step
 

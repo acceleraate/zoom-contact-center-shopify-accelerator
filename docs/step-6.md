@@ -1,6 +1,6 @@
 # Step 6 - Customising the Flows
 
-The flows you just created contain all the necessary logic to capture the values from the user, call into Shopify using their API, and then confirm the Shopify data retrieved. In reality though, you’ll need to make customisations to the flows to add your own logic and implement your own CX. This is an **accelerator** after all - it can help you get to where you want to be quicker, but it does require your own investment in terms of time and technical skills. To customise the flows we recommend that you or your team have the following skills:
+The flows you just created contain all the necessary logic to capture the values from the user, call into Shopify using their API, and then confirm the Shopify data retrieved. You will need to make your own customisations to the Zoom Contact Center flows to add your own logic and implement your own CX journeys. To customise the flows we recommend that you or your team have the following skills:
 
 - Knowledge of Zoom Contact Center
 - Ability to create Flows in Zoom Contact Center
@@ -71,7 +71,7 @@ var_get()["global_custom.accShopify.errorCode"];
 var_get()["global_custom.accShopify.errorMessage"];
 ```
 
-A full list of error codes and troubleshooting steps is provided in [Step 5 - Testing the Shopify Accelerator - Troubleshooting](step-5.md#troubleshooting)
+A full list of error codes and troubleshooting steps is provided in [Step 5 - Testing the Shopify Accelerator - Error Codes](step-5.md#error-codes)
 
 ## Post Processing
 
