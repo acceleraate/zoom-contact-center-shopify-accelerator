@@ -50,9 +50,9 @@ ID, Number, Line Items, Total Price, Fulfilment Status, Financial Status, Shippi
 | ----------------------------------------- | -------------------------------------------------------- |
 | Step 1: Shopify App Installation          | 5 minutes                                                |
 | Step 2: Zoom Contact Center Configuration | 15 minutes                                               |
-| Step 3: Voice Channel Configuration       | Coming soon                                              |
+| Step 3: Voice Channel Configuration       | 7 minutes                                                |
 | Step 4: Web Chat Channel Configuration    | 12 minutes + time to update and publish your own website |
-| Step 5: Testing the Flows                 | 15 minutes - or as long as you need                      |
+| Step 5: Testing the Flows                 | As much time as you need                                 |
 
 Further information to follow...
 

@@ -1,9 +1,5 @@
 # Step 4 - Web Chat Channel Configuration
 
-⏱️ 12 minutes + time to update and publish your own website
-
----
-
 ## 4.1 Create the Web Chat Flow in Zoom Contact Center
 
 ⏱️ 5 minutes

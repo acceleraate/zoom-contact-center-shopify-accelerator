@@ -1,9 +1,5 @@
 # Step 2 - Zoom Contact Center Configuration
 
-⏱️ 15 minutes
-
----
-
 ## 2.1 Create Custom Variables in Zoom Contact Center
 
 ⏱️ 15 minutes
