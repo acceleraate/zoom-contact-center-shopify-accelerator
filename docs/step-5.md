@@ -1,4 +1,4 @@
-# Step 5 - Testing
+# Step 5 - Testing the Shopify Accelerator
 
 ## 5.1 Testing Overview
 
