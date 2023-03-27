@@ -69,7 +69,19 @@ You can set up Associated Domains for your website staging/test environments in 
 
 Refer to the Zoom documentation for adding Associated Domains.
 
-## 4.6 Publish your website updates
+## 4.6 Add your website subdomain to your Zoom Contact Center Preferences
+
+⏱️ 1 minute
+
+If your website is hosted on a subdomain (for example `www`) of the domain you added to Associated Domains in the previous step, then you need to register the subdomain in Zoom Contact Center Preferences. Without this your webchat will fail to initialise and display an error `Request token failed`.
+
+- In the **Contact Centre Management** section, click on **Preferences**
+- Scroll down to the **Associated Domains** section, then click on **Manage**
+- Click the **Add Subdomain** button
+- Enter the subdomain you're using, for example `www`
+- Finally click **Add**
+
+## 4.7 Publish your website updates
 
 ⏱️ Time depends on your own website publishing process
 
